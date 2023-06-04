@@ -1,4 +1,4 @@
-<h1 style='color: green;'>ImgRedrawer</h1>
+<h1>ImgRedrawer Script By @PyWebSol</h1>
 
 Простой скрипт для перерисовки изображений и видео нейросетью
 
@@ -15,4 +15,3 @@
 ```shell
    pip install keras
 ```
-<span style="color:orange;">Test</span>
