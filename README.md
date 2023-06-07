@@ -1,8 +1,9 @@
-<h1>ImgRedrawer Script By @PyWebSol</h1>
+<h1 align='center'>ImgRedrawer Script By @PyWebSol</h1>
 
-Простой скрипт для перерисовки изображений и видео нейросетью
+<p align='center'>Простой скрипт для перерисовки изображений и видео нейросетью</p>
 
-Установка библиотек
+<p align='center'>Установка библиотек</p>
+
 ```shell
    pip install Pillow
 ```
